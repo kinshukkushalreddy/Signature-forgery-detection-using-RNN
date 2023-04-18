@@ -1,0 +1,8 @@
+Deep Learning Project Closure READ ME 
+Kinshuk sunder reddy | 20WU0101007
+
+
+1. Link to Git Repo: https://github.com/kinshukkushalreddy/Signature-forgery-detection-using-RNN.git
+
+
+2. Link to Medium Article: https://medium.com/@kinshuksunder/signature-forgery-detection-using-rnn-cb96cda90da7
